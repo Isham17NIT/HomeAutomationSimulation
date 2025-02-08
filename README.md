@@ -5,7 +5,7 @@ It integrates the following technologies:
 - **Wokwi**: for virtual prototyping, providing a realistic simulation environment.
 - **Blynk**: for real-time control interfaces, ensuring seamless interaction with smart devices.
 - **ThingSpeak**: for data logging and analytics, enabling comprehensive environmental monitoring and insights.
-- **Machine Learning Integration**: for enhanced safety, which detects children near the gas stove and raises timely alarms.
+- **Machine Learning Integration**: for enhanced safety, which detects children near the gas stove and raises timely alarms. YOLOv8 was utilised for object detection. A diverse dataset was used to train the model, thus making it more efficient and usable for various environments.
 ## Features
 
 - **Virtual Prototyping**: Implemented using Wokwi to simulate the kitchen and living room environment.
